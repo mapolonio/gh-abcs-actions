@@ -39,5 +39,5 @@ References:
 ```
 3. Optional remove the `paths` to trigger the workflow on any push to main branch
 4. Commit the changes into the `main` branch 
-5. If not step 3), change a file inside the folder [labs](/labs) and commit the changes into the `main` branch
+5. If not step 3), change a file inside the folder [labs](/labs) and commit the changes into the `main` branch (done)
 6. Go to `Actions` and see the details of your running workflow
